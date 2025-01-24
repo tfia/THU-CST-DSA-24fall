@@ -1,0 +1,48 @@
+Case 1 took 0.077s.
+	case type = random, tree type = splay
+Case 2 took 0.083s.
+	case type = random, tree type = splay
+Case 3 took 0.173s.
+	case type = random, tree type = splay
+Case 4 took 1.144s.
+	case type = random, tree type = splay
+Case 1 took 0.077s.
+	case type = random, tree type = avl
+Case 2 took 0.082s.
+	case type = random, tree type = avl
+Case 3 took 0.166s.
+	case type = random, tree type = avl
+Case 4 took 1.062s.
+	case type = random, tree type = avl
+Case 1 took 0.073s.
+	case type = good_locality, tree type = splay
+Case 2 took 0.086s.
+	case type = good_locality, tree type = splay
+Case 3 took 0.16s.
+	case type = good_locality, tree type = splay
+Case 4 took 0.98s.
+	case type = good_locality, tree type = splay
+Case 1 took 0.076s.
+	case type = good_locality, tree type = avl
+Case 2 took 0.081s.
+	case type = good_locality, tree type = avl
+Case 3 took 0.171s.
+	case type = good_locality, tree type = avl
+Case 4 took 1.107s.
+	case type = good_locality, tree type = avl
+Case 1 took 0.074s.
+	case type = bad_locality, tree type = splay
+Case 2 took 0.085s.
+	case type = bad_locality, tree type = splay
+Case 3 took 0.22s.
+	case type = bad_locality, tree type = splay
+Case 4 took 1.898s.
+	case type = bad_locality, tree type = splay
+Case 1 took 0.075s.
+	case type = bad_locality, tree type = avl
+Case 2 took 0.082s.
+	case type = bad_locality, tree type = avl
+Case 3 took 0.187s.
+	case type = bad_locality, tree type = avl
+Case 4 took 1.423s.
+	case type = bad_locality, tree type = avl

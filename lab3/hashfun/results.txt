@@ -1,0 +1,36 @@
+Case 1 took 0.082s.
+	hashing strategy = bad_hashing, collision strategy = linear_probe
+Case 2 took 68.957s.
+	hashing strategy = bad_hashing, collision strategy = linear_probe
+Case 3 took 94.274s.
+	hashing strategy = bad_hashing, collision strategy = linear_probe
+Case 1 took 0.087s.
+	hashing strategy = bad_hashing, collision strategy = quadratic_probe
+Case 2 took 1.872s.
+	hashing strategy = bad_hashing, collision strategy = quadratic_probe
+Case 3 took 2.442s.
+	hashing strategy = bad_hashing, collision strategy = quadratic_probe
+Case 1 took 0.081s.
+	hashing strategy = bad_hashing, collision strategy = overflow_strategy
+Case 2 took 36.487s.
+	hashing strategy = bad_hashing, collision strategy = overflow_strategy
+Case 3 took 52.199s.
+	hashing strategy = bad_hashing, collision strategy = overflow_strategy
+Case 1 took 0.089s.
+	hashing strategy = good_hashing, collision strategy = linear_probe
+Case 2 took 0.31s.
+	hashing strategy = good_hashing, collision strategy = linear_probe
+Case 3 took 0.387s.
+	hashing strategy = good_hashing, collision strategy = linear_probe
+Case 1 took 0.093s.
+	hashing strategy = good_hashing, collision strategy = quadratic_probe
+Case 2 took 0.314s.
+	hashing strategy = good_hashing, collision strategy = quadratic_probe
+Case 3 took 0.339s.
+	hashing strategy = good_hashing, collision strategy = quadratic_probe
+Case 1 took 0.08s.
+	hashing strategy = good_hashing, collision strategy = overflow_strategy
+Case 2 took 1.372s.
+	hashing strategy = good_hashing, collision strategy = overflow_strategy
+Case 3 took 1.884s.
+	hashing strategy = good_hashing, collision strategy = overflow_strategy
